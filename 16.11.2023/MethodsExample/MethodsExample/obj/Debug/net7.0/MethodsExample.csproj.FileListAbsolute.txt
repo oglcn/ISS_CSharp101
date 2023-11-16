@@ -1,0 +1,15 @@
+C:\Users\ogulc\Dropbox\IZTECH_CSharp101\ISS_CSharp101\16.11.2023\MethodsExample\MethodsExample\bin\Debug\net7.0\MethodsExample.exe
+C:\Users\ogulc\Dropbox\IZTECH_CSharp101\ISS_CSharp101\16.11.2023\MethodsExample\MethodsExample\bin\Debug\net7.0\MethodsExample.deps.json
+C:\Users\ogulc\Dropbox\IZTECH_CSharp101\ISS_CSharp101\16.11.2023\MethodsExample\MethodsExample\bin\Debug\net7.0\MethodsExample.runtimeconfig.json
+C:\Users\ogulc\Dropbox\IZTECH_CSharp101\ISS_CSharp101\16.11.2023\MethodsExample\MethodsExample\bin\Debug\net7.0\MethodsExample.dll
+C:\Users\ogulc\Dropbox\IZTECH_CSharp101\ISS_CSharp101\16.11.2023\MethodsExample\MethodsExample\bin\Debug\net7.0\MethodsExample.pdb
+C:\Users\ogulc\Dropbox\IZTECH_CSharp101\ISS_CSharp101\16.11.2023\MethodsExample\MethodsExample\obj\Debug\net7.0\MethodsExample.csproj.AssemblyReference.cache
+C:\Users\ogulc\Dropbox\IZTECH_CSharp101\ISS_CSharp101\16.11.2023\MethodsExample\MethodsExample\obj\Debug\net7.0\MethodsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ogulc\Dropbox\IZTECH_CSharp101\ISS_CSharp101\16.11.2023\MethodsExample\MethodsExample\obj\Debug\net7.0\MethodsExample.AssemblyInfoInputs.cache
+C:\Users\ogulc\Dropbox\IZTECH_CSharp101\ISS_CSharp101\16.11.2023\MethodsExample\MethodsExample\obj\Debug\net7.0\MethodsExample.AssemblyInfo.cs
+C:\Users\ogulc\Dropbox\IZTECH_CSharp101\ISS_CSharp101\16.11.2023\MethodsExample\MethodsExample\obj\Debug\net7.0\MethodsExample.csproj.CoreCompileInputs.cache
+C:\Users\ogulc\Dropbox\IZTECH_CSharp101\ISS_CSharp101\16.11.2023\MethodsExample\MethodsExample\obj\Debug\net7.0\MethodsExample.dll
+C:\Users\ogulc\Dropbox\IZTECH_CSharp101\ISS_CSharp101\16.11.2023\MethodsExample\MethodsExample\obj\Debug\net7.0\refint\MethodsExample.dll
+C:\Users\ogulc\Dropbox\IZTECH_CSharp101\ISS_CSharp101\16.11.2023\MethodsExample\MethodsExample\obj\Debug\net7.0\MethodsExample.pdb
+C:\Users\ogulc\Dropbox\IZTECH_CSharp101\ISS_CSharp101\16.11.2023\MethodsExample\MethodsExample\obj\Debug\net7.0\MethodsExample.genruntimeconfig.cache
+C:\Users\ogulc\Dropbox\IZTECH_CSharp101\ISS_CSharp101\16.11.2023\MethodsExample\MethodsExample\obj\Debug\net7.0\ref\MethodsExample.dll
