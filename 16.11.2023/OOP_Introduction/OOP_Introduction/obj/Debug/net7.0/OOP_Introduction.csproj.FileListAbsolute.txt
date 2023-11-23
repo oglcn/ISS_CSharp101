@@ -1,0 +1,15 @@
+C:\Users\ogulc\Dropbox\IZTECH_CSharp101\ISS_CSharp101\16.11.2023\OOP_Introduction\OOP_Introduction\bin\Debug\net7.0\OOP_Introduction.exe
+C:\Users\ogulc\Dropbox\IZTECH_CSharp101\ISS_CSharp101\16.11.2023\OOP_Introduction\OOP_Introduction\bin\Debug\net7.0\OOP_Introduction.deps.json
+C:\Users\ogulc\Dropbox\IZTECH_CSharp101\ISS_CSharp101\16.11.2023\OOP_Introduction\OOP_Introduction\bin\Debug\net7.0\OOP_Introduction.runtimeconfig.json
+C:\Users\ogulc\Dropbox\IZTECH_CSharp101\ISS_CSharp101\16.11.2023\OOP_Introduction\OOP_Introduction\bin\Debug\net7.0\OOP_Introduction.dll
+C:\Users\ogulc\Dropbox\IZTECH_CSharp101\ISS_CSharp101\16.11.2023\OOP_Introduction\OOP_Introduction\bin\Debug\net7.0\OOP_Introduction.pdb
+C:\Users\ogulc\Dropbox\IZTECH_CSharp101\ISS_CSharp101\16.11.2023\OOP_Introduction\OOP_Introduction\obj\Debug\net7.0\OOP_Introduction.csproj.AssemblyReference.cache
+C:\Users\ogulc\Dropbox\IZTECH_CSharp101\ISS_CSharp101\16.11.2023\OOP_Introduction\OOP_Introduction\obj\Debug\net7.0\OOP_Introduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ogulc\Dropbox\IZTECH_CSharp101\ISS_CSharp101\16.11.2023\OOP_Introduction\OOP_Introduction\obj\Debug\net7.0\OOP_Introduction.AssemblyInfoInputs.cache
+C:\Users\ogulc\Dropbox\IZTECH_CSharp101\ISS_CSharp101\16.11.2023\OOP_Introduction\OOP_Introduction\obj\Debug\net7.0\OOP_Introduction.AssemblyInfo.cs
+C:\Users\ogulc\Dropbox\IZTECH_CSharp101\ISS_CSharp101\16.11.2023\OOP_Introduction\OOP_Introduction\obj\Debug\net7.0\OOP_Introduction.csproj.CoreCompileInputs.cache
+C:\Users\ogulc\Dropbox\IZTECH_CSharp101\ISS_CSharp101\16.11.2023\OOP_Introduction\OOP_Introduction\obj\Debug\net7.0\OOP_Introduction.dll
+C:\Users\ogulc\Dropbox\IZTECH_CSharp101\ISS_CSharp101\16.11.2023\OOP_Introduction\OOP_Introduction\obj\Debug\net7.0\refint\OOP_Introduction.dll
+C:\Users\ogulc\Dropbox\IZTECH_CSharp101\ISS_CSharp101\16.11.2023\OOP_Introduction\OOP_Introduction\obj\Debug\net7.0\OOP_Introduction.pdb
+C:\Users\ogulc\Dropbox\IZTECH_CSharp101\ISS_CSharp101\16.11.2023\OOP_Introduction\OOP_Introduction\obj\Debug\net7.0\OOP_Introduction.genruntimeconfig.cache
+C:\Users\ogulc\Dropbox\IZTECH_CSharp101\ISS_CSharp101\16.11.2023\OOP_Introduction\OOP_Introduction\obj\Debug\net7.0\ref\OOP_Introduction.dll
