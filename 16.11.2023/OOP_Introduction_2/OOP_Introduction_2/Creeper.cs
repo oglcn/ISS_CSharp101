@@ -14,6 +14,12 @@ namespace OOP_Introduction_2
             Health = 500;
         }
 
+        public override bool TakeDamage(int damage, string enemyName)
+        {
+            Console.WriteLine("Creeper Taking Damage: ");
+            return base.TakeDamage(damage, enemyName);
+        }
+
 
     }
 }

@@ -6,21 +6,17 @@ using System.Threading.Tasks;
 
 namespace OOP_Introduction_2
 {
-    internal class Zombie : Enemy
+    internal class Skeleton:Enemy
     {
-
-        public Zombie()
+        public Skeleton()
         {
-            Health = 200;
-            minDamage = 20;
-            maxDamage = 30;
+            Health = 300;
         }
 
         public override bool TakeDamage(int damage, string enemyName)
         {
-            Console.WriteLine("Zombie Taking Damage: ");
+            Console.WriteLine("Skeleton Taking Damage: ");
             return base.TakeDamage(damage, enemyName);
         }
-
     }
 }

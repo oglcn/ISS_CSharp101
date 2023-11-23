@@ -6,15 +6,15 @@ using System.Threading.Tasks;
 
 namespace OOP_Introduction_2
 {
-    internal class Player
+    internal class Player : GenericEntity
     {
+
         public Player()
         {
-            
+            Health = 1000;
+            minDamage = 50;
+            maxDamage = 70;
         }
-
-        public int Health { get; set; }
-
 
     }
 }
