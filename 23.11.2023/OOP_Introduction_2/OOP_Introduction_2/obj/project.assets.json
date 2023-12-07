@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ogulc\\Dropbox\\IZTECH_CSharp101\\ISS_CSharp101\\16.11.2023\\OOP_Introduction_2\\OOP_Introduction_2\\OOP_Introduction_2.csproj",
+      "projectUniqueName": "C:\\Users\\ogulc\\Dropbox\\IZTECH_CSharp101\\ISS_CSharp101\\23.11.2023\\OOP_Introduction_2\\OOP_Introduction_2\\OOP_Introduction_2.csproj",
       "projectName": "OOP_Introduction_2",
-      "projectPath": "C:\\Users\\ogulc\\Dropbox\\IZTECH_CSharp101\\ISS_CSharp101\\16.11.2023\\OOP_Introduction_2\\OOP_Introduction_2\\OOP_Introduction_2.csproj",
+      "projectPath": "C:\\Users\\ogulc\\Dropbox\\IZTECH_CSharp101\\ISS_CSharp101\\23.11.2023\\OOP_Introduction_2\\OOP_Introduction_2\\OOP_Introduction_2.csproj",
       "packagesPath": "C:\\Users\\ogulc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ogulc\\Dropbox\\IZTECH_CSharp101\\ISS_CSharp101\\16.11.2023\\OOP_Introduction_2\\OOP_Introduction_2\\obj\\",
+      "outputPath": "C:\\Users\\ogulc\\Dropbox\\IZTECH_CSharp101\\ISS_CSharp101\\23.11.2023\\OOP_Introduction_2\\OOP_Introduction_2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
